@@ -1,0 +1,16 @@
+{
+  "name": "gulp-sass-starter-kit-master",
+  "version": "1.0.0",
+  "description": "A basic Gulpfile kit that I created and use to facilitate my learning of SASS and Advanced CSS.  It is based on [this one](https://www.youtube.com/watch?v=QgMQeLymAdU) My thanks to Kevin Powell for clearing up all my previous Gulp-related confusion, especially pertaining to differences between Gulp 3 and 4. Sometimes all you need is just a basic tool that gets the job done without a lot of extras and this definitely fit the bill.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
